@@ -54,11 +54,11 @@ jobs:
         run: |
           echo "ROOT_DIR=1.0" >> $GITHUB_ENV
           echo "BUILD_DIR=docgen" >> $GITHUB_ENV
-          echo "PROJ_DIR=asv" >> $GITHUB_ENV
-          echo "PROJ_CODE=ASV" >> $GITHUB_ENV
+          echo "PROJ_DIR=gov" >> $GITHUB_ENV
+          echo "PROJ_CODE=GOV" >> $GITHUB_ENV
           #-------------------------
           echo "CODE_REPO=tetsuoseto" >> $GITHUB_ENV
-          echo "CODE_DIR=Tenzing-AISVS" >> $GITHUB_ENV
+          echo "CODE_DIR=Tenzing-GOV" >> $GITHUB_ENV
           #-------------------------
           # default tool location; will be updated if self-servable
           echo "TOOL_REPO=tetsuoseto" >> $GITHUB_ENV
