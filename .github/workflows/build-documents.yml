@@ -52,7 +52,7 @@ jobs:
       # STEP 1: Define system parameters
       - name: Define TOOL, BUILD, PROJ global variables
         run: |
-          echo "ROOT_DIR=1.0" >> $GITHUB_ENV
+          echo "ROOT_DIR=2026" >> $GITHUB_ENV
           echo "BUILD_DIR=docgen" >> $GITHUB_ENV
           echo "PROJ_DIR=gov" >> $GITHUB_ENV
           echo "PROJ_CODE=GOV" >> $GITHUB_ENV
