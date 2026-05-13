@@ -26,7 +26,7 @@ Proofreader(s):
 
 ###@ PDF Creation
 Creation tool: 
-  [TENZING v5.2.3 20260510-195341 (darwin)](https://github.com/tetsuoseto/Tenzing-Release)
+  [TENZING v5.2.3 (darwin)](https://github.com/tetsuoseto/Tenzing-Release)
   
 ###@ PDF Archive
 PDF license:
