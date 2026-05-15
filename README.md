@@ -1,6 +1,6 @@
 # Tenzing-GOV
 
-This site hosts the translated markdown files that complement the official translations by internationalaisafetyreport.org to help facilitate the penetration of the AI safety report. As listed in **Machine Translation** section below, six new languages were added to this repo on May 13(Wed), 2026; 18 more will be added on May 20(Wed), 2026.
+This site hosts the translated markdown files that complement the official translations by internationalaisafetyreport.org to help facilitate the penetration of the AI safety report. As listed in **Machine Translation** section below, six new languages were added to this repo on May 13(Wed), 2026; 15 more will be added on May 20(Wed), 2026.
 
 <a href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026">
   <img src="images/iaisr_more_languages.png" alt="Screenshot of IAISR 'More Languages' Page">
