@@ -1,0 +1,57 @@
+## Managementsamenvatting
+>white|black|left|24|30|bb Managementsamenvatting
+
+Dit rapport beoordeelt waartoe AI-systemen voor algemeen gebruik in staat zijn, welke risico’s ze met zich meebrengen en hoe die risico’s kunnen worden beheerd. Het is geschreven met begeleiding van meer dan 100 onafhankelijke experts, waaronder genomineerden uit meer dan 30 landen en internationale organisaties, zoals de EU, OESO en VN. Onder leiding van de voorzitter hadden de onafhankelijke experts die het gezamenlijk schreven volledige vrijheid over de inhoud.
+
+Dit rapport richt zich op de meest capabele AI-systemen voor algemeen gebruik en op de opkomende risico’s die ermee gepaard gaan. Met ‘AI voor algemeen gebruik’ worden AI-modellen en -systemen bedoeld die een breed scala aan taken kunnen uitvoeren. ‘Opkomende risico’s’ zijn risico’s die ontstaan aan de grens van de mogelijkheden van AI voor algemeen gebruik. Sommige van deze risico’s doen zich al voor, met gedocumenteerde schade; andere blijven nog onzekerder, maar zouden ernstig kunnen zijn als ze zich daadwerkelijk voordoen.
+
+Het doel van dit werk is beleidsmakers te helpen omgaan met het door general-purpose AI opgeworpen 'evidence dilemma'. AI-systemen worden snel steeds capabeler, maar bewijs over hun risico's komt traag naar voren en is moeilijk te beoordelen. Voor beleidsmakers kan handelen te vroeg leiden tot het verankeren van ineffectieve interventies, terwijl wachten op overtuigende gegevens de samenleving kwetsbaar kan laten voor mogelijk ingrijpende negatieve gevolgen. Om deze uitdaging te verlichten, bundelt dit Rapport zo concreet mogelijk wat er bekend is over AI-risico's, terwijl tegelijk de resterende leemten worden benadrukt.
+
+Hoewel dit Rapport zich richt op risico's, kunnen algemeen inzetbare AI ook aanzienlijke voordelen opleveren. Deze systemen worden al nuttig toegepast in de gezondheidszorg, wetenschappelijk onderzoek, het onderwijs en andere sectoren, zij het in sterk uiteenlopende mate wereldwijd. Maar om hun volledige potentieel te realiseren, moeten de risico's effectief worden beheerd. Misbruik, storingen en systematische ontwrichting kunnen het vertrouwen aantasten en de adoptie belemmeren. De regeringen die de AI Safety Summit bijwoonden, hebben dit Rapport geïnitieerd omdat een duidelijk begrip van deze risico's instellingen in staat stelt om te handelen in verhouding
+
+###@ Mogelijkheden verbeteren zich snel maar ongelijkmatig
+
+Sinds de publicatie van het 2025-rapport zijn de mogelijkheden van algemene-purpose AI verder verbeterd, gedreven door nieuwe technieken die de prestaties verbeteren na de initiële training. AI-ontwikkelaars blijven grotere modellen trainen met verbeterde prestaties. In het afgelopen jaar hebben zij de mogelijkheden verder verbeterd via ‘scaling tijdens inferentie’: waardoor modellen meer rekenkracht kunnen gebruiken om tussenstappen te genereren voordat ze een definitief antwoord geven. Deze techniek heeft geleid tot bijzonder grote prestatieverbeteringen bij complexere redeneertaken op het gebied van wiskunde, software engineering en wetenschap.
+
+Tegelijkertijd blijven de mogelijkheden ‘kruiselings’/‘onregelmatig’: leidende systemen kunnen uitblinken in sommige moeilijke taken, terwijl ze falen bij andere, eenvoudigere. AI-systemen voor algemeen gebruik zijn sterk in veel complexe domeinen, waaronder het genereren van code, het maken van fotorealistische afbeeldingen en het beantwoorden van vragen op expert-niveau in wiskunde en wetenschap. Toch hebben ze moeite met sommige taken die eenvoudiger lijken, zoals het tellen van objecten in een afbeelding, het redeneren over fysieke ruimte en het herstellen van basale fouten in langere workflows.
+
+De ontwikkeling van AI-vooruitgang richting 2030 is onzeker, maar de huidige trends zijn consistent met een verdere verbetering. AI-ontwikkelaars zetten in op het belang van rekenkracht, en hebben honderden miljarden dollars aangekondigd voor investeringen in datacenters. Of de mogelijkheden zich zullen blijven verbeteren met dezelfde snelheid als de afgelopen periode is moeilijk te voorspellen. Tussen nu en 2030 is het aannemelijk dat de vooruitgang kan vertragen of een plateau kan bereiken (bijv. door knelpunten in data of energie), kan doorgaan met de huidige tarieven, of dramatisch kan versnellen (bijv. als AI-systemen beginnen om het AI-onderzoek zelf sneller te maken).
+
+###@ Reële bewijzen voor verschillende risico’s nemen toe
+
+Algemene AI-risico's vallen in drie categorieën: kwaadaardig gebruik, storingen en systeemrisico's.
+
+>white|black|left|12|14|hb Kwaadaardig gebruik
+
+Door AI gegenereerde content en criminele activiteiten: AI-systemen worden misbruikt om content te genereren voor oplichting, fraude, chantage en niet-consensuele intieme beelden. Hoewel het voorkomen van dergelijke schade goed gedocumenteerd is, blijft systematische data over de prevalentie en ernst ervan beperkt.
+
+Invloed en manipulatie: In experimentele omgevingen kan door AI gegenereerde inhoud net zo effectief zijn als door mensen geschreven inhoud om iemands overtuigingen te veranderen. Het daadwerkelijke gebruik van AI voor manipulatie is gedocumenteerd maar nog niet wijdverbreid, hoewel het kan toenemen naarmate de mogelijkheden verbeteren.
+
+Cyberaanvallen: AI-systemen kunnen softwarekwetsbaarheden ontdekken en kwaadaardige code schrijven. In een wedstrijd identificeerde een AI-agent 77% van de kwetsbaarheden die aanwezig waren in echte software. Criminele groepen en door staten verbonden actoren gebruiken momenteel actief generieke AI in hun operaties. Of aanvallers of verdedigers meer profijt zullen hebben van AI-ondersteuning blijft onzeker.
+
+Biologische en chemische risico's: General-purpose AI-systemen kunnen informatie verstrekken over de ontwikkeling van biologische en chemische wapens, inclusief details over pathogenen en deskundige-niveau laboratoriuminstructies. In 2025 brachten meerdere ontwikkelaars nieuwe modellen uit met aanvullende waarborgen nadat zij niet konden uitsluiten dat deze modellen beginnende gebruikers zouden kunnen helpen bij het ontwikkelen van dergelijke wapens. Het blijft moeilijk om in te schatten in welke mate materiële barrières actoren blijven belemmeren die proberen om ze te verkrijgen.
+
+>white|black|left|12|14|hb Storingen
+
+Betrouwbaarheidsproblemen: Huidige AI-systemen vertonen soms storingen, zoals het verzinnen van informatie, het produceren van gebrekkige code en het geven van misleidend advies. AI-agenten vormen verhoogde risico's omdat ze autonoom handelen, waardoor het moeilijker wordt voor mensen om in te grijpen voordat storingen schade veroorzaken. Huidige technieken kunnen het aantal storingen verlagen, maar niet tot het niveau dat vereist is in veel situaties met een hoog risico.
+
+Verlies van controle: Scenario’s van ‘verlies van controle’ zijn scenario’s waarin AI-systemen buiten ieders controle werken, zonder een duidelijk pad om de controle terug te winnen. Huidige systemen missen de capaciteiten om dergelijke risico’s te vormen, maar ze verbeteren wel in relevante gebieden zoals autonome werking. Sinds het vorige Rapport is het vaker voorgekomen dat modellen onderscheid kunnen maken tussen testomgevingen en inzet in de echte wereld, en dat ze mazen in evaluaties vinden, waardoor gevaarlijke capaciteiten mogelijk onopgemerkt blijven vóór de inzet.
+
+>white|black|left|12|14|hb Systemische risico's
+
+Arbeidsmarkteffecten: General-purpose AI zal waarschijnlijk een breed scala aan cognitieve taken automatiseren, met name in kenniswerk. Economen verschillen van mening over de omvang van toekomstige effecten: sommigen verwachten dat banenverlies wordt gecompenseerd door nieuwe werkgelegenheid, terwijl anderen stellen dat grootschalige automatisering de werkgelegenheid en lonen aanzienlijk kan verminderen. Vroege aanwijzingen tonen geen effect op de totale werkgelegenheid, maar er zijn enkele signalen van afnemende vraag naar werknemers in de beginfase van hun loopbaan in sommige beroepen die door AI worden geraakt, zoals schrijven.
+
+Risico’s voor menselijke autonomie: AI-gebruik kan van invloed zijn op iemands vermogen om weloverwogen keuzes te maken en daar ook naar te handelen. Vroege aanwijzingen suggereren dat vertrouwen op AI-tools kritische denkvaardigheden kan verzwakken en ‘automatiseringsbias’ kan aanmoedigen, de neiging om de uitkomsten van AI-systemen te vertrouwen zonder voldoende controle. ‘AI-companion’-apps hebben nu tientallen miljoenen gebruikers, waarvan een klein deel patronen laat zien van toegenomen eenzaamheid en verminderde sociale betrokkenheid.
+
+###@ Het combineren van meerdere benaderingen biedt een robuustere risicobeheersing
+
+Het beheersen van algemene AI-risico’s voor algemeen gebruik is moeilijk door technische en institutionele uitdagingen. Technisch gezien kunnen er soms op onvoorspelbare wijze nieuwe mogelijkheden ontstaan, blijft de interne werking van modellen slecht begrepen en is er een ‘evaluatiehiaat’: prestaties op tests vóór de inzet voorspellen niet betrouwbaar de werkelijke bruikbaarheid of het risico in de praktijk. Institutioneel hebben ontwikkelaars prikkels om belangrijke informatie als eigendom te houden, en het tempo van ontwikkeling kan druk creëren om snelheid boven risicomanagement te prioriteren, waardoor het voor instellingen lastiger wordt om bestuurs- en beheercapaciteit op te bouwen.
+
+Risicobeheerspraktijken omvatten threat modelling om kwetsbaarheden te identificeren, capability evaluations om mogelijk gevaarlijk gedrag te beoordelen en incident reporting om meer bewijsmateriaal te verzamelen. In 2025 publiceerden of werkten 12 bedrijven hun Frontier AI Safety Frameworks bij - documenten die beschrijven hoe zij van plan zijn om risico's te beheren terwijl zij modellen met meer capaciteiten bouwen. Hoewel initiatieven voor AI-risicobeheer grotendeels vrijwillig blijven, beginnen een klein aantal regelgevende regimes sommige risicobeheerspraktijken te formaliseren als wettelijke vereisten.
+
+Technische beveiligingsmaatregelen verbeteren, maar laten nog steeds aanzienlijke beperkingen zien. Zo zijn aanvallen die bedoeld zijn om schadelijke uitkomsten uit te lokken, moeilijker geworden, maar gebruikers kunnen soms nog steeds schadelijke uitkomsten verkrijgen door verzoeken te herformuleren of ze op te knippen in kleinere stappen. AI-systemen kunnen robuuster worden gemaakt door meerdere beveiligingsmaatregelen te combineren, een aanpak die bekendstaat als ‘defence-in-depth’.
+
+Open-weight-modellen vormen specifieke uitdagingen. Ze bieden aanzienlijke voordelen voor onderzoek en commercie, met name voor actoren met minder middelen. Ze kunnen echter niet worden teruggeroepen zodra ze zijn uitgebracht, hun beveiligingen zijn eenvoudiger te omzeilen en actoren kunnen ze gebruiken buiten omgevingen die worden gemonitord – waardoor misbruik moeilijker is om te voorkomen en te herleiden.
+
+Maatschappelijke veerkracht speelt een belangrijke rol bij het beheersen van AI-gerelateerde schade. Omdat risicobeheersingsmaatregelen beperkingen hebben, zullen zij waarschijnlijk niet in staat zijn om sommige AI-gerelateerde incidenten te voorkomen. Maatregelen om maatschappelijke veerkracht op te bouwen om deze schokken op te vangen en ervan te herstellen omvatten het versterken van kritieke infrastructuur, het ontwikkelen van hulpmiddelen om door AI gegenereerde content te detecteren, en het opbouwen van institutionele capaciteit om op nieuwe dreigingen te reageren.
+

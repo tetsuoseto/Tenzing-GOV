@@ -1,0 +1,12 @@
+##iasrindigo 1. Pozadí obecně použití umělé inteligence
+>iasrindigo|iasrindigo|left|1|10|br  
+>iasrindigo|white|left|15|30|bb Kapitola 1
+>iasrindigo|iasrindigo|left|1|30|br  
+>iasrindigo|white|left|24|30|bb Pozadí obecněúčelové umělé inteligence
+>iasrindigo|iasrindigo|left|1|30|br  
+>iasrindigo|white||12|16|br V průběhu uplynulého roku se schopnosti obecně účelových modelů a systémů umělé inteligence nadále zlepšovaly. Vedoucí systémy dnes dosahují úrovně odborníků nebo ji překonávají ve standardizovaných hodnoceních napříč řadou profesních a vědeckých oborů, od zkoušek na úrovni bakalářského studia v právu a chemii až po otázky na úrovni navazujícího (graduate) studia ve vědě. Jejich schopnosti jsou však také „zubaté“: současně vynikají na obtížných benchmarkách a selhávají v některých základních úlohách. Aktuální systémy se i nadále občas dopouštějí nepravdivých informací, hůře si vedou v jazycích, které jsou ve výukových datech méně běžné, a narážejí na obtíže při reálných omezeních, jako jsou neznámá rozhraní a neobvyklé problémy. Zmírnění těchto omezení je oblastí aktivního výzkumu a výzkumníci i vývojáři v některých směrech dosahují pokroku. Očekává se, že trvalé investice do výzkumu a tréninku v oblasti AI budou do roku 2030 dále podporovat pokrok v možnostech systémů, i když panuje značná nejistota ohledně toho, jaké nové schopnosti se objeví, a také zda budou současné nedostatky odstraněny.
+>iasrindigo|iasrindigo|left|12|16|br  
+>iasrindigo|white||12|16|br Tato kapitola pokrývá současné i budoucí schopnosti všeobecně použitelných AI. První část představuje všeobecně použitelnou AI a vysvětluje, jak tyto systémy fungují a co pohání jejich výkon (§1.1. Co je všeobecně použitelná AI?). Druhá část zkoumá současné schopnosti a omezení (§1.2. Současné schopnosti). Opakujícím se tématem je „evaluační mezera“: jak se systém chová při přednasazovacích evaluacích, jako je testování na benchmarkách, často vypadá, že nadhodnocuje jeho praktickou užitečnost, protože takové evaluace nezachycují plnou složitost reálných úloh. Závěrečná část zvažuje, jak se mohou schopnosti vyvíjet do roku 2030 (§1.3. Schopnosti do roku 2030). Vývojáři AI výrazně investují do výpočetního výkonu, generování dat a výzkumu. Existuje však značná nejistota ohledně toho, jak se tyto investice promítnou do budoucích zisků v oblasti schopností. Pro ilustraci rozsahu možných výsledků tato část uvádí čtyři scénáře vyvinuté OECD, které sahají od stagnace po zrychlení tempa zlepšování schopností.
+>iasrindigo|iasrindigo||1|10001|br  
+
+

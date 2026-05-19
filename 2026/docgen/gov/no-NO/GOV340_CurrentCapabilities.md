@@ -1,0 +1,77 @@
+###@ Nåværende kapasiteter
+
+Generelle AI-systemer har mange bemerkelsesverdige evner. Ledende systemer presterer nå på gullmedaljenivå i matematikkonkurranser og hjelper vitenskapelige forskere med å generere hypoteser og feilsøke laboratoriearbeid. De matcher, og i noen tilfeller overgår, ekspertprestasjon på et bredt spekter av beregningsbenchmarks og oppgavespesifikke evalueringer.
+
+Likevel er ytelsesprofilen som disse systemene viser også «taggete»: deres evner varierer mye mellom ulike oppgaver og kontekster. De genererer fortsatt noen ganger falsk informasjon («hallusinasjoner») og gir inkonsekvente resultater selv når de får identiske eller like innputter. Det finnes et «evalueringsgap»: AI-systemer presterer ofte imponerende i kontrollerte omgivelser som evalueringer før utrulling, men dårligere i faktiske forhold. Denne variasjonen gjør det vanskelig å vurdere allsidige AI-evner med én enkelt målemetode. Denne delen beskriver både evnene til AI-systemer og deres svakheter (Tabell 1.4).
+
+![table1.4](images/table1.4_summary_current_GAI.png)
+
+##### Bord 1.4: En oppsummering av hovedkapabilitetene til nåværende generell-purpose AI-systemer
+
+###@ Hva kan dagens generelle AI-systemer gjøre?
+
+Generelle AI-systemer til generelle formål presterer nå på eller over nivået til menneskelige eksperter i standardiserte evalueringer, og dekker et økende antall veldefinerte profesjonelle og vitenskapelige fag (Figur 1.4). For eksempel scorer ledende modeller over 90% på eksamener på bachelornivå i fag fra kjemi til juss (MMLU, (‡112)) og oppnår over 80% på naturvitenskapelige tester på masternivå (GPQA, (‡14)). I juli 2025 nådde modeller fra Google DeepMind og OpenAI gullmedaljenivå i Den internasjonale matematikkolympiaden, der de løste fem av seks oppgaver under konkurranselignende betingelser (‡76). Utover tekstdrevet resonnering viser disse systemene sterke multimodale evner: de kan lage fotorealistiske bilder, korte videoer i høy definisjon, 3D-scener og musikalske stykker fra enkle tekstprompter (‡13, ‡18, ‡113, ‡114, ‡115, ‡116), og de begynner å behandle komplekse sensor-data for å styre fysiske roboter (‡21*).
+
+>white|orangered|left|14|15.5|bb Avanserte evner øker produktiviteten i medisin, utdanning, programvareutvikling og andre sektorer
+
+Avanserte AI-evner driver nå praktiske verktøy som matcher eller overgår menneskelig ytelse på bestemte oppgaver, og øker produktiviteten i flere sektorer (‡117*).
+
+![fig1.4](images/fig1.4_scores_GAI.png)
+
+##### Figur 1.4: Poeng for ledende generelle AI-systemer
+>white|black||9|11|br Poeng for ledende generelle AI-systemer på sentrale delbenchmarker fra april 2023 til november 2025. Disse benchmarkene dekker krevende problemer innen programmering (SWE-bench Verified), matematikk (MATH og FrontierMath) og vitenskapelig resonnement (GPQA Diamond). Resonneringssystemer, som OpenAI’s o1, viser betydelig forbedret ytelse på matematiske oppgaver, som tydelig illustreres på MATH-benchmarken. Kilde: Epoch AI, 2025 (‡138).
+
+
+■ I medisin kan AI-systemer analysere kliniske scenarier og gjennomføre diagnostiske samtaler for å generere lister over mulige diagnoser. I enkelte simulerte omgivelser kan nøyaktigheten deres overstige den til menneskelige leger (‡118, ‡119), men de mangler den påliteligheten og den konsistensen som kreves for faktisk klinisk utrulling i den virkelige verden.
+■ I utdanning tas AI-systemer raskt i bruk i områder fra læreplanutforming til vurdering av studenter, og endrer utdanningsprosessen (‡120*, ‡121), samtidig som utbredt bruk blant studenter skaper betydelige utfordringer for integriteten og validiteten til eksisterende akademiske vurderinger (‡122).
+■ I programvareutvikling er AI-kodeassistenter nå utbredt, og noen studier antyder at utviklere som bruker AI-assistenter fullfører enkelte oppgaver i gjennomsnitt 20–30% raskere enn de som ikke gjør det (‡123, ‡124, ‡125).
+■ Storskalaundersøkelser i andre sektorer som kundeservice, konsulentvirksomhet og profesjonell skriving finner målbare produktivitetsgevinster fra AI-assistert arbeid, selv om disse virkningene varierer på tvers av oppgaver og arbeidstakergrupper (‡126, ‡127, ‡128, ‡129, ‡130). (For en mer detaljert drøfting av arbeidsmarkedskonsekvensene av generell-purpose AI, se §2.3.1. Arbeidsmarkedsvirkninger.)
+
+>white|orangered|left|13|15|bb Generelle AI-systemer for generell bruk bistår vitenskapelig forskning
+
+Generelle AI-systemer brukes nå av forskere til å støtte relativt komplekse oppgaver på tvers av fagområder. Forskere har vist at AI-systemer, under høy-nivå menneskelig veiledning, kan designe nye proteiner for medisinsk bruk, som senere blir verifisert i et fysisk laboratorium (‡131). Andre systemer har oppdaget nye algoritmer som er mer effektive enn veletablerte metoder utviklet av mennesker (‡31*). Særlig bygger slike fremskritt ofte mindre på råkraften til de nyeste modellene og mer på hensiktsmessig systemintegrasjon. Generell-purpose AI brukes også i økende grad til å akselerere AI-forskning i seg selv, en trend med betydelige implikasjoner som drøftes videre i §1.3. Kapabiliteter innen 2030. I samfunnsvitenskapene bruker forskere AI til å fremskynde dataanalyse gjennom automatisert annotering, og til å utforske sosiale dynamikker ved å simulere individuell og kollektiv atferd med AI-agenter (‡132, ‡133, ‡134). Når man går fra analyse til direkte anvendelse, begynner forskere å bruke generelle AI-systemer til å designe og studere skalerbare, nye sosiale intervensjoner. For eksempel har nyere arbeid undersøkt bruken av AI-formidlede samtaler for å finne felles grunn i demokratiske debatter, eller for å redusere tro på konspirasjonsteorier gjennom dialog (‡135, ‡136, ‡137).
+
+###@ Hva er de nåværende begrensningene til generelle kunstige intelligens-systemer?
+
+Til tross for fremskritt i kapasitet, forblir ytelsen til generelle AI-systemer ujevn på tvers av oppgaver og kontekster. Denne delen trekker frem noen fremtredende begrensninger, selv om hele bredden av utfordringer er større.
+
+>white|orangered|left|13|15|bb Pålitelighetsutfordringer vedvarer i dagens AI-systemer
+
+Til tross for nylige forbedringer kan allmennbruks-AI-systemer være upålitelige og utsatt for grunnleggende feil i faktagrunnlag og logikk. Selv systemer som utmerker seg på komplekse oppgaver, kan generere siteringer, biografier eller fakta som ikke finnes – et fenomen kjent som «hallusinasjon» (‡139, ‡140, ‡141). Ytelsen deres kan også være inkonsistent; for eksempel kan nøyaktigheten på matteoppgaver avta betydelig når irrelevant informasjon settes inn i problemets beskrivelse (‡142). Denne sårbarheten strekker seg også til multimodale evner, der modeller ofte har lav ytelse på oppgaver som krever romlig resonnement, som for eksempel enkel telling av objekter i en scene (‡143, ‡144).
+
+Selv om ekspertmenneskelig tilsyn kan redusere noen av disse risikoene, finnes det samtidig en fare for overdreven tillit, der brukere stoler på feilaktige resultater fordi de presenteres flytende og overbevisende (‡145, ‡146) (se §2.3.2. Risikoer for menneskelig autonomi). Denne upåliteligheten gjør det vanskelig å ta i bruk slike systemer på en trygg måte i settinger med høy risiko, som medisin og finans, der feil kan få alvorlige konsekvenser, og der menneskelig verifisering av systemets utdata fortsatt er nødvendig.
+
+>white|orangered|left|13|15|bb Systemer sliter med langsiktig planlegging og uventede hindringer
+
+Generelle AI-systemer til allmenn bruk sliter også med oppgaver som krever langsiktig planlegging, å opprettholde en sammenhengende strategi over mange steg, og å tilpasse seg uventede hindringer. Når oppgavene blir lengre, mister ofte AI-agenter oversikten over fremgangen sin og kan ikke pålitelig håndtere uventede innputter (‡147, ‡148, ‡149*). For eksempel kan til og med en enkel nettsteds-popup-annonse sette en hel oppgave ut av spill (‡150). Store evalueringer bekrefter dette mønsteret: innen programvareutvikling oppnår de mest kapable systemene bare 50% suksess på oppgaver som varer litt over to timer, og for å nå 80% suksess må de begrenses til mye enklere 25-minutters oppgaver (‡98, ‡151). For nå er pålitelig automatisering av lange eller komplekse oppgaver fortsatt urealiserbart.
+
+>white|orangered|left|13|15|bb Å samhandle med den fysiske verdenen forblir utfordrende
+
+Fremdrift på digitale oppgaver har også vist seg å være vanskelig å overføre til robotikk, der kompleksiteten i den fysiske verden introduserer nye utfordringer. Nylige fremskritt er sentrert rundt Vision-Language-Action (VLA)-modeller – grunnmodeller utviklet for å gjøre det mulig for roboter å følge instruksjoner på naturlig språk, tolke multimodale sensoriske data og generere motoriske kommandoer. Ledende systemer som π0.5 (‡152) og Gemini Robotics (‡21) kan nå tolke enkle verbale kommandoer som ‘clean the kitchen’ og utføre en sekvens med fysiske steg i et ukjent, kontrollert miljø. Likevel presterer dagens VLA-modeller fortsatt ikke godt med uvanlige objektformer og uventede hendelser (‡152). Å sikre at slike systemer kan operere trygt og pålitelig for å minimere risikoen for fysisk skade eller skade på eiendom, og fungere godt i ulike miljøer, er fortsatt et aktivt forskningsområde (‡153, ‡154, ‡155).
+
+>white|orangered|left|13|15|bb Ytelsen varierer ujevnt på tvers av språk og kulturer
+
+Mulighetene til generelle AI-modeller og -systemer varierer også på tvers av språk og kulturer. Ytelsen er høyest på oppgaver på engelsk, noe som gjenspeiler det at mesteparten av treningsdataene kommer fra vestlige kilder (‡156, ‡157). For eksempel fant én evaluering av AI-modeller på 83 språk betydelig lavere ytelse på språk som bruker ikke-latinske skript, og på språk med begrensede digitale ressurser (‡158). Denne forskjellen strekker seg til kulturell kunnskap (‡159); i én studie svarte AI-modeller riktig på 79% av spørsmålene om hverdagskultur i USA, men bare på 12% av spørsmålene om etiopisk kultur (‡160). En annen studie finner at dagens modeller «resonnerer» mer effektivt på høyressursspråk, noe som kan utvide ytelsesgapet mellom språk (‡161). Utover språk og kultur sees lignende mønstre langs geografiske og sosioøkonomiske skillelinjer. Modeller undervurderer steder med vanskeligstilte befolkningsgrupper i anbefalinger (‡162) – for eksempel, hvis de blir spurt om en restaurantanbefaling, kan de mislykkes i å foreslå restauranter i fattigere områder – og deres ytelse på faktabasert gjenkalling forverres for land med lavere inntekt (‡163, ‡164). Denne ulikheten forsterkes av evalueringsbenchmarker som i seg selv i stor grad er skjevfordelt mot engelsk, og skaper et økosystem der lavressursspråk forblir systematisk underutforsket og underoptimalisert (‡165, ‡166).
+
+###@ Oppdateringer
+
+Siden publiseringen av forrige rapport (januar 2025) har «resonnerings»-systemer blitt mainstream (se §1.1. Hva er generell- formåls AI? for detaljer om utviklingen). Disse systemene viser betydelig forbedret ytelse på krevende matematikk-, kode- og vitenskapelige oppgaver ved å generere og sammenligne flere svar innenfor sin egen «chain of thought» før de produserer et endelig svar (Figur 1.5) (‡112, ‡167). Fordi disse modellene ytelse delvis avhenger av beregning ved inferens, kan deres reelle kapasitet endre seg etter den første utviklingen – og forbedres når flere beregningsressurser allokeres. Parallelt har AI-selskaper rettet større fokus mot å utvikle AI-agenter, spesielt innen områder som programvareutvikling (‡168) og datamaskinbruk (‡169, ‡170). Selv om pålitelighet fortsatt er en flaskehals, øker kompleksiteten i oppgavene disse agentene kan automatisere raskt (‡98). Til slutt fremstår det å muliggjøre at modeller danner langsiktige minner og lærer kontinuerlig fra brukerinteraksjon som et sentralt utviklingsområde (‡171, ‡172*).
+
+![fig1.5](images/fig1.5_perf_GAI_models.png)
+
+##### Figur 1.5: Ytelse til en generell AI-modell
+>white|black||9|11|br Ytelse til en allmenn AI-modell (s1) på resonnementstunge oppgaver med varierende mengder test-tidsberegning (dvs. når man bruker ekstra beregning under inferens). Å tildele mer beregningstid under generering av svar gir betydelig bedre resultater på matematikk (AIME 24) og vitenskapsspørsmål på PhD-nivå (GPQA Diamond). Kilde: Muennighoff et al., 2025 (‡173).
+
+
+###@ Bevismangler
+
+Ujevne kapabiliteter og evalueringsgapet gjør generelle AI-kapasiteter vanskelig å pålitelig måle og forutsi (‡174, ‡175). Ytelsen avhenger også sterkt av de konkrete testeksemplene og prompten som brukes, noe som gjør det vanskelig å med høy konfidens dokumentere at et AI-system ikke kan utføre visse – potensielt farlige – oppgaver (‡176*). Det finnes ingen enkelt, helhetlig og kontinuerlig oppdatert syntese av AI-kapasiteter, noe som fører til en fragmentert og ofte utdatert forståelse av feltet. Eksisterende gjennomganger (‡138, ‡177), inkludert denne rapporten, gir verdifulle sammendrag, men er statiske øyeblikksbilder i et raskt utviklende felt. Uten en bredt akseptert taksonomi for kapabiliteter må beslutningstakere navigere i et lappeteppe av benchmarker og kilder for å danne et komplett bilde.
+
+>white|orangered|left|13|15|bb Benchmarks klarer ofte ikke å forutsi ytelse i den virkelige verden
+
+Samsvars- og integritetsproblemer ved benkmarkering er en økende bekymring. Mange kapabilitetsevalueringer bygger på standardiserte benkmarkeringer. Imidlertid kan mange modeller ha blitt trent ved hjelp av data fra de samme benkmarkeringene – et problem som kalles «datakontaminering», som de fleste utviklere ikke for tiden sporer eller opplyser om (‡178). Dette kan føre til oppblåste prestasjonsscore som ikke gjenspeiler en models faktiske evne (‡179), men heller dens kapasitet til å memorere svar (‡180, ‡181, ‡182). En ytterligere begrensning ved dagens evalueringspraksis er at den bygger på automatisert testing i kontrollerte laboratoriemiljøer. Dette kan imidlertid ofte overvurdere nytten til AI-systemer i dynamiske, virkelige situasjoner (‡147, ‡149, ‡183, ‡184). For eksempel fant én studie at selv om en AI-agent kunne produsere funksjonell kode, krevde koden fortsatt betydelig menneskelig innsats for å rette opp problemer med dokumentasjon, formatering og kvalitet før den kunne brukes i et reelt prosjekt (‡185). For å adressere disse begrensningene er det i ferd med å vokse frem et dedikert «evaluations science», som argumenterer for strenge metodologier som sikrer ekstern validitet og bedre predikerer reell ytelse i verden (‡186, ‡187). For eksempel har nyere benkmarkeringer begynt å måle ytelsen til AI-systemer på økonomisk verdifulle oppgaver (‡188, ‡189) og fjernarbeid i den virkelige verden (‡190, ‡191*).
+
+>white|orangered|left|13|15|bb Bevisene for hvordan KI forsterker menneskelige evner er ikke entydige
+
+Å måle AI sine praktiske fordeler på en konsistent måte er utfordrende fordi suksess avhenger både av den spesifikke oppgaven og brukerens ferdigheter i å utnytte AI til den, noe som betyr at laboratorieresultater ofte ikke klarer å forutsi reell verdi i virkelige situasjoner. For eksempel viser én studie at en models egen nøyaktighet ikke er en pålitelig prediktor for ytelsen til menneske-AI team (‡192). Mange studier bekrefter positiv gevinst ved å bruke AI (‡126, ‡127, ‡128). Imidlertid fant én nylig studie at selv om programvareutviklere mente at AI gjorde dem mer produktive, så bremset det faktisk erfarne programmerere med 19% på komplekse kodingsoppgaver (‡129).
+

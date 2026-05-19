@@ -1,0 +1,12 @@
+##iasrindigo 1. Vispārējas nozīmes AI fons
+>iasrindigo|iasrindigo|left|1|10|br  
+>iasrindigo|white|left|15|30|bb 1. nodaļa
+>iasrindigo|iasrindigo|left|1|30|br  
+>iasrindigo|white|left|24|30|bb Vispārēja nozīmes AI fons
+>iasrindigo|iasrindigo|left|1|30|br  
+>iasrindigo|white||12|16|br Pēdējā gada laikā vispārējas nozīmes AI modeļu un sistēmu iespējas ir turpinājušas uzlaboties. Līderējošās sistēmas tagad atbilst vai pārsniedz ekspertu līmeņa sniegumu standarta izvērtējumos plašā profesionālu un zinātnisku jomu lokā, sākot no bakalaura līmeņa eksāmeniem tiesībās un ķīmijā līdz zinātnes jautājumiem maģistra līmenī. Tomēr to iespējas ir arī “robainas”: vienlaikus tās izceļas sarežģītos uzdevumos, bet neizdodas dažos pamatuzdevumos. Pašreizējās sistēmas joprojām reizēm sniedz nepatiesu informāciju, nepietiekami veicas valodās, kas to apmācības datos ir retāk sastopamas, un grūti tiek galā ar reālās pasaules ierobežojumiem, piemēram, nepazīstamām saskarnēm un neparastām problēmām. Šo ierobežojumu mazināšana ir aktīvas pētniecības joma, un pētnieki un izstrādātāji panāk progresu dažos virzienos. Pastāvīga ieguldījumu plānošana AI pētniecībā un apmācībā tiek prognozēta, lai līdz 2030. gadam virzītu turpmāku spēju attīstību, lai gan joprojām ir ievērojama nenoteiktība gan par to, kādas jaunas spējas varētu parādīties, gan par to, vai pašreizējie trūkumi tiks novērsti.
+>iasrindigo|iasrindigo|left|12|16|br  
+>iasrindigo|white||12|16|br Šī nodaļa aptver vispārīga mērķa AI pašreizējās un nākotnes iespējas. Pirmā sadaļa iepazīstina ar vispārīga mērķa AI, skaidrojot, kā šīs sistēmas darbojas un kas nosaka to veiktspēju (§1.1. Kas ir vispārīga-mērķa AI?). Otrā sadaļa aplūko pašreizējās iespējas un ierobežojumus (§1.2. Pašreizējās iespējas). Atkārtota tēma ir “novērtējuma plaisa”: kā sistēma uzvedas pirms ieviešanas veiktos novērtējumos, piemēram, etalonpārbaudēs, bieži šķiet pārvērtējam tās praktisko lietderību, jo šādi novērtējumi neaptver visu reālās pasaules uzdevumu sarežģītību. Pēdējā sadaļā tiek aplūkots, kā varētu attīstīties iespējas līdz 2030 gadam (§1.3. Iespējas līdz 2030. gadam). AI izstrādātāji iegulda ievērojamas pūles skaitļošanas jaudā, datu ģenerēšanā un pētniecībā. Tomēr pastāv būtiska nenoteiktība par to, kā šie ieguldījumi pārtaps nākotnes iespēju pieaugumā. Lai ilustrētu iespējamo iznākumu spektru, sadaļā tiek piedāvāti četri OECD izstrādāti scenāriji, kas svārstās no stagnācijas līdz iespējai paātrināties iespēju uzlabošanas tempiem.
+>iasrindigo|iasrindigo||1|10001|br  
+
+
