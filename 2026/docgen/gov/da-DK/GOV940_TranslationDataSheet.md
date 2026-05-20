@@ -16,7 +16,7 @@ Markdown customization plugin:
   [Custom Data URL](https://github.com/tetsuoseto/Tenzing/tree/main/docgen/tenzing_data_GOV)
 
 ###@ Machine Translation
-Machine translation language: de-DE
+Machine translation language: da-DK
 Machine translation model: gpt-5.4-nano
 
 ###@ Proofread
@@ -32,6 +32,6 @@ Creation tool:
 PDF license:
   [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 Archive status: Preview
-  [Archive URL](https://github.com/tetsuoseto/Tenzing-Arxiv/blob/main/iaisr/docgen/gov/de-DE/baseline/GOVAll_de-DE.pdf)
+  [Archive URL](https://github.com/tetsuoseto/Tenzing-Arxiv/blob/main/iaisr/docgen/gov/da-DK/baseline/GOVAll_da-DK.pdf)
 QR code:
-![qrcode](images/qrcode_gov_de-DE.png)
+![qrcode](images/qrcode_gov_da-DK.png)
