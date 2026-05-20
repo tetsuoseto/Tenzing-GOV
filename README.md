@@ -1,6 +1,6 @@
 # Tenzing-GOV
 
-This site hosts the translated markdown files that complement the official translations by internationalaisafetyreport.org to help facilitate the penetration of the AI safety report. As listed in **Machine Translation** section below, six new languages were added to this repo on May 13(Wed), 2026; 15 more will be added on May 20(Wed), 2026.
+This site hosts the translated markdown files that complement the official translations by internationalaisafetyreport.org to help facilitate the penetration of the AI safety report. As listed in **Machine Translation** section below, six new languages were added to this repo on May 13(Wed), 2026; 15 more added on May 20(Wed), 2026.
 
 <a href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026">
   <img src="images/iaisr_more_languages.png" alt="Screenshot of IAISR 'More Languages' Page">
@@ -16,11 +16,13 @@ PDF's built from the translated markdown files on this repository are also poste
 - Source license: [Open Government License v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
 
 ### Markdown
+Markdown creation:
+- Tetsuo Seto ( https://github.com/tetsuoseto/ )
 - Markdown customization plugin: [Plugin Python URL](https://github.com/tetsuoseto/Tenzing/blob/main/docgen/tenzing_register_GOV_plugin.py), [Custom Data URL](https://github.com/tetsuoseto/Tenzing/tree/main/docgen/tenzing_data_GOV)
 
 ### Machine Translation
 - Machine translation languages (May 13, 2026): de-DE, it-IT, ja-JP, ko-KR, zh-TW, vi-VN
-- Machine translation languages (scheduled for May 20, 2026): be-BY, pt-PT, fi-FI, no-NO, sv-SE, nl-NL, da-DK, et-EE, lv-LV, lt-LT, pl-PL, hu-HU, cs-CZ, el-GR, tr-TR 
+- Machine translation languages (May 20, 2026): be-BY, pt-PT, fi-FI, no-NO, sv-SE, nl-NL, da-DK, et-EE, lv-LV, lt-LT, pl-PL, hu-HU, cs-CZ, el-GR, tr-TR
 - Machine translation model: gpt-5.4-nano
 
 ### Proofread (to-be-done)

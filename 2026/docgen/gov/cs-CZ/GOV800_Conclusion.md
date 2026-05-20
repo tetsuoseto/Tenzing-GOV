@@ -1,0 +1,19 @@
+## Závěr
+>white|black|left|24|30|bb Závěr
+
+Tato Zpráva poskytuje vědecké zhodnocení, řízené více než 100 odborníky z více než 30 zemí a mezinárodních organizací, obecně účelové umělé inteligence: technologie, která se rychle vyvíjí a má značný dopad. Přispěvatelé se liší ve svých názorech na to, jak rychle se budou zlepšovat schopnosti, jak závažné mohou být rizika, a do jaké míry se stávající záruky a postupy řízení rizik ukážou jako dostatečné. V zásadních zjištěních se však projevuje vysoká míra shody. Schopnosti obecně účelové AI se zlepšují rychleji, než mnozí odborníci předpokládali. Podkladové důkazy pro několik rizik se výrazně rozrostly. Současné techniky řízení rizik se zlepšují, ale jsou nedostatečné. Tato Zpráva nemůže vyřešit všechna základní neznámá, ale může stanovit společnou výchozí úroveň a přístup k jejich zvládání.
+
+###@ Rok změn
+
+Pravidelné vědecké posuzování umožňuje sledovat změny v čase. Od vydání prvního Mezinárodního AI Safety Report v lednu 2025 více systémů AI poprvé vyřešilo úlohy Mezinárodní matematické olympiády na úrovni zlaté medaile; zprávy o škodlivých aktérech, kteří zneužívají systémy AI pro kybernetické útoky, se staly častějšími a podrobnějšími a více vývojářů AI nyní pravidelně zveřejňuje podrobnosti o kybernetických hrozbách; a několik vývojářů vydalo nové modely s dalšími bezpečnostními opatřeními poté, co nebyli schopni vyloučit možnost, že by mohli začínajícím uživatelům napomoci při vývoji biologických zbraní. Tvůrci politik čelí výrazně odlišnému prostředí než před rokem.
+
+###@ Hlavní výzva
+
+V tomto Zprávě se opakovaně objevuje řada mezer v důkazech. Jak a proč modely obecného účelu v oblasti umělé inteligence získávají nové schopnosti a chovají se určitými způsoby, je často obtížné předvídat, a to i pro vývojáře. „evaluační mezera“ znamená, že samotné výsledky z benchmarků nedokážou spolehlivě předpovědět praktickou užitečnost ani rizika v reálném světě. Systematická data o výskytu a závažnosti škod souvisejících s AI zůstávají pro většinu rizik i nadále omezená. Není jasné, zda stávající ochranné mechanismy budou pro schopnější systémy dostatečně účinné. Tyto mezery společně vymezují hranice toho, co může jakékoli současné hodnocení s důvěrou tvrdit.
+
+Základní výzva, kterou tato zpráva identifikuje, není žádné jednotlivé riziko. Jde o to, že celkový vývoj obecně-účelové umělé inteligence zůstává hluboce nejistý, i když její současné dopady nabývají na významu. Věrohodné scénáře pro 2030 se výrazně liší: pokrok by mohl zůstat na místě v blízkosti současných úrovní schopností, zpomalit, zůstat stabilní, nebo se naopak dramaticky zrychlit způsobem, který se obtížně předvídá. Závazky k investicím naznačují, že hlavní vývojáři umělé inteligence očekávají pokračující zvyšování schopností, avšak nepředvídané technické limity by mohly pokrok zpomalit. Sociální dopad dané úrovně schopností umělé inteligence navíc závisí na tom, jak a kde jsou systémy nasazeny, jak jsou používány a na tom, jak na ně reagují různí aktéři. Tato nejistota odráží obtížnost předvídat technologii, jejíž dopady závisejí na nepředvídatelných technických průlomech, měnících se ekonomických podmínkách a rozdílných institucionálních reakcích.
+
+###@ Hodnota společného porozumění
+
+Trajektorie obecně schopné umělé inteligence není pevně daná: bude utvářena rozhodnutími, která budou v nadcházejících letech činit vývojáři, vlády, instituce a komunity. Tato zpráva není normativní v tom, co by se mělo dělat. Tím, že však posouvá společné porozumění oblasti AI založené na důkazech, pomáhá zajistit, aby tato rozhodnutí byla dobře informovaná a aby byly rozpoznány klíčové nejistoty. Zároveň umožňuje tvůrcům politik v různých jurisdikcích jednat v souladu s jedinečnými hodnotami a potřebami své komunity při práci z jednotného, vědeckého základu. Hodnota této zprávy nespočívá pouze v zjištěních, která předkládá, ale také v příkladu, který dává spoluprací při zvládání sdílených výzev.
+
