@@ -6,7 +6,7 @@ This site hosts the translated markdown files that complement the official trans
   <img src="images/iaisr_more_languages.png" alt="Screenshot of IAISR 'More Languages' Page">
 </a>
 
-PDF's built from the translated markdown files on this repository are also posted on [Tenzing-Arxiv](https://github.com/tetsuoseto/Tenzing-Arxiv/blob/main/iaisr/docgen/gov/) repository with 'Preview' status. On this repository, the markdown files are initially all in 'pristine' state -- machine translated with no human edits. The markdown files can be collaboratively proofread, i.e., edit text, fine-tune PDF formatting, localize image files, rebuild PDF, repeat the steps, then, finally remove the W.I.P. watermark and upgrade to 'Published' status on [Tenzing-Arxiv](https://github.com/tetsuoseto/Tenzing-Arxiv/blob/main/iaisr/docgen/gov/) repository.
+PDF's built from the translated markdown files on this repository are also posted on [Tenzing-Arxiv](https://github.com/tetsuoseto/Tenzing-Arxiv/blob/main/iaisr/docgen/gov/) repository with 'Preview' status. The markdown files are initially all in 'pristine' state -- machine translated with no human edits. The markdown files can be collaboratively proofread, i.e., edit text, fine-tune PDF formatting, localize image files, rebuild PDF, repeat the steps, then, finally remove the W.I.P. watermark and upgrade to 'Published' status on [Tenzing-Arxiv](https://github.com/tetsuoseto/Tenzing-Arxiv/blob/main/iaisr/docgen/gov/) repository.
 
 ## Translation Data Sheet
 
