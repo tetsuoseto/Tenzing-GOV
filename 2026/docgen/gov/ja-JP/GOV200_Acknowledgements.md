@@ -1,20 +1,20 @@
 ## 謝辞
 >white|black|left|24|30|bb 謝辞
 
-##@ 市民社会の査読者
->white|black|left|16|19|hr 市民社会の査読者
+##@ 市民社会のレビュー担当者
+>white|black|left|16|19|hr 市民社会のレビュー担当者
 
-Ada Lovelace Institute、African Centre for Technology Studies、AI Forum New Zealand / Te Kāhui Atamai Iahiko o Aotearoa、AI Safety Asia、Stichting Algorithm Audit、Carnegie Endowment for International Peace、Center for Law and Innovation / Certa Foundation、Centre for the Governance of AI、Chief Justice Meir Shamgar、Center for Digital Law and Innovation、Digital Futures Lab、EON Institute、Equiano Institute、Good Ancestors Policy、Gradient Institute、Institute for Law & AI、Interface、Israel Democracy Institute、Mozilla Foundation、NASSCOM、Old Ways New、RAND、Royal Society、SaferAI、Swiss Academy of Engineering Sciences、The Centre for Long-Term Resilience、The Alan Turing Institute、The Ethics Centre、The Future Society、The HumAIne Foundation、Türkiye Artificial Intelligence Policies Association
+エイダ・ラブレス研究所, アフリカ技術研究センター, AIフォーラム・ニュージーランド / Te Kāhui Atamai Iahiko o Aotearoa, AIセーフティ・アジア, Stichting Algorithm Audit, カーネギー国際平和財団, 法とイノベーションセンター / Certa Foundation, AIガバナンスセンター, メイア・シャムガル最高裁判所長官, デジタル法・イノベーションセンター, Digital Futures Lab, EON Institute, Equiano Institute, Good Ancestors Policy, Gradient Institute, 法・AI研究所, Interface, イスラエル民主主義研究所, Mozilla Foundation, NASSCOM, Old Ways New, RAND, 王立協会, SaferAI, スイス工学科学アカデミー, 長期的レジリエンスセンター, アラン・チューリング研究所, 倫理センター, The Future Society, The HumAIne Foundation, トルコ人工知能政策協会
 
-##@ 業界のレビュアー
->white|black|left|16|19|hr 業界のレビュアー
+##@ 業界の評価者
+>white|black|left|16|19|hr 業界の評価者
 
-Advai, アンソロピック, Cohere, デロイト, Digital Umuganda, Domyn, G42, Google DeepMind, Harmony Intelligence, Hugging Face, HumAIn, IBM, LG AI Research, Meta, Microsoft, Naver, OpenAI, Qhala
+Advai, Anthropic, Cohere, Deloitte, Digital Umuganda, Domyn, G42, Google DeepMind, Harmony Intelligence, Hugging Face, HumAIn, IBM, LG AI Research, Meta, Microsoft, Naver, OpenAI, Qhala
 
 ##@ 非公式のレビュアー
 >white|black|left|16|19|hr 非公式のレビュアー
 
-Markus Anderljung, David Autor, Mariette Awad, Jamie Bernardi, Stella Biderman, Asher Brass, Ben Brooks, Miles Brundage, Kevin Bryan, Rafael Calvo, Siméon Campos, Carmen Carlan, Micah Carroll, Alan Chan, Jackie Cheung, Josh Collyer, Elena Cryst, Tino Cuéllar, Allan Dafoe, Jean-Stanislas Denain, Fernando Diaz, Roel Dobbe, Seth Donoughe, Izzy Gainsbury, Ben Garfinkel, Adam Gleave, Jasper Götting, Kobi Hackenburg, Lewis Hammond, David Evan Harris, Dan Hendrycks, José Hernández-Orallo, Luke Hewitt, Marius Hobbhahn, Manoel Horta Ribeiro, Abigail Jacobs, Ari Kagan, Daniel Kang, Anton Korinek, Michal Kosinski, Gretchen Krueger, Dan Lahav, Anton Leicht, Vera Liao, Eli Lifland, Matthijs Maas, James Manyika, Simon Mylius, AJung Moon, Seán Ó hÉigeartaigh, Tamara Paris, Raymond Perrault, Siva Reddy, Luca Righetti, Jon Roozenbeek, Max Roser, Anders Sandberg, Leo Schwinn, Jaime Sevilla, Theodora Skeadas, Chandler Smith, Tobin South, Jonathan Spring, Merlin Stein, David Stillwell, Daniel Susser, Helen Toner, Sander van der Linden, Kush Varshney, Jess Whittlestone, Kai-Cheng Yang
+マルクス アンデルユング, デビッド オーター, マリエット アワド, ジェイミー ベルナルディ, ステラ ビダーマン, アッシャー ブラス, ベン ブルックス, マイルズ ブランデージ, ケビン ブライアン, ラファエル カルボ, シメオン カンポス, カルメン カーラン, マイカ キャロル, アラン チャン, ジャッキー チャン, ジョシュ コリアー, エレナ クリスト, ティノ クエジャル, アラン デフォー, ジャン-スタニスラス ドゥナン, フェルナンド ディアス, ルール ドッベ, セス ドナヒュー, イジー ゲインズベリー, ベン ガーフィンケル, アダム グリーブ, ヤスパー ゲッティング, コービー ハッケンバーグ, ルイス ハモンド, デビッド エヴァン ハリス, ダン ヘンドリックス, ホセ エルナンデス-オラジョ, ルーク ヒューイット, マリウス ホブハーン, マノエル オルタ リベイロ, アビゲイル ジェイコブズ, アリ ケイガン, ダニエル カン, アントン コリネック, ミハウ コシンスキー, グレッチェン クルーガー, ダン ラハブ, アントン ライヒト, ヴェラ リャオ, イーライ リフランド, マタイス マース, ジェームズ マニーカ, ジモン ミリウス, エイジャング ムーン, ショーン オー ヘイガーティ, タマラ パリス, レイモンド ペロー, シヴァ レディ, ルカ リゲッティ, ヨン ルーゼンベーク, マックス ローザー, アンデシュ サンドベリ, レオ シュウィン, ハイメ セビリア, セオドラ スキアダス, チャンドラー スミス, トービン サウス, ジョナサン スプリング, マーリン スタイン, デビッド スティルウェル, ダニエル サッサー, ヘレン トナー, サンダー ファン デル リンデン, クシュ ヴァーシュニー, ジェス ウィットルストーン, カイ-チェン ヤン
 
-事務局および執筆チームは、José Luis León Medinaによる引用の品質管理と書式設定、Amber Aceによる原稿の文体・誤りの校正に対する支援に感謝しています。
+事務局と執筆チームは、José Luis León Medinaによる品質管理と引用文献の書式設定、およびAmber Aceによるコピーエディットに感謝します。
 

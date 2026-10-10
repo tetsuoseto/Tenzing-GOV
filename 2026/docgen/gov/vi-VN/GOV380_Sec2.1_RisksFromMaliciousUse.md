@@ -1,24 +1,24 @@
 ##########
 >white|orangered|left|14|30|hr Mục 2.1
-### 2.1. Rủi ro từ việc sử dụng độc hại
->white|orangered|left|24|30|hb Rủi ro từ việc sử dụng độc hại
+### 2.1. Rủi ro từ việc sử dụng với mục đích xấu
+>white|orangered|left|24|30|hb Rủi ro từ việc sử dụng với mục đích xấu
 
 #### 2.1.1. Nội dung do AI tạo ra và hoạt động tội phạm
 
 >oldlace|black||11|15|br      
 >oldlace|black|left|13|15|hb  Thông tin chính
 >oldlace|black||11|15|br      
->oldlace|black||11|15|br  ■ Các hệ thống AI đa mục đích có thể tạo ra văn bản, âm thanh, hình ảnh và video chân thực, có thể được sử dụng cho các mục đích phạm tội như lừa đảo, tống tiền, phỉ báng, hình ảnh thân mật không có sự đồng ý, và tài liệu lạm dụng tình dục trẻ em. Ví dụ, đã có các sự cố được ghi nhận trong đó kẻ lừa đảo sử dụng bản sao giọng nói và deepfake để mạo danh các giám đốc điều hành hoặc thành viên trong gia đình, rồi lừa nạn nhân chuyển tiền.
+>oldlace|black||11|15|br  ■ Các hệ thống AI đa dụng có thể tạo ra văn bản, âm thanh, hình ảnh và video chân thực, vốn có thể bị sử dụng cho các mục đích phạm tội như lừa đảo, tống tiền, phỉ báng, tạo hình ảnh thân mật không có sự đồng thuận và tài liệu xâm hại tình dục trẻ em. Ví dụ, đã có những vụ việc được ghi nhận về việc kẻ lừa đảo sử dụng bản sao giọng nói và nội dung giả mạo sâu để giả danh lãnh đạo doanh nghiệp hoặc người thân, rồi lừa nạn nhân chuyển tiền.
 >oldlace|black||11|15|br      
->oldlace|black||11|15|br  ■ Các công cụ AI có thể tiếp cận đã làm giảm đáng kể rào cản trong việc tạo nội dung tổng hợp độc hại với quy mô lớn. Nhiều công cụ miễn phí hoặc chi phí thấp, không yêu cầu kiến thức kỹ thuật và có thể được sử dụng ẩn danh.
+>oldlace|black||11|15|br  ■ Các công cụ AI dễ tiếp cận đã làm giảm đáng kể rào cản đối với việc tạo nội dung tổng hợp gây hại trên quy mô lớn. Nhiều công cụ miễn phí hoặc có chi phí thấp, không đòi hỏi chuyên môn kỹ thuật và có thể được sử dụng ẩn danh.
 >oldlace|black||11|15|br      
->oldlace|black||11|15|br  ■ Phim khiêu dâm giả mạo (deepfake) nhắm mục tiêu không tương xứng vào phụ nữ và trẻ em gái là một mối quan ngại đặc biệt. Các nghiên cứu cho thấy 96% video deepfake trực tuyến là nội dung khiêu dâm. 15% người trưởng thành tại UK cho biết đã từng xem các hình ảnh khiêu dâm deepfake và 2.2% người trả lời trong một khảo sát trên 10 quốc gia báo cáo rằng có ai đó đã tạo ra hình ảnh thân mật không có sự đồng ý của họ.
+>oldlace|black||11|15|br  ■ Nội dung khiêu dâm deepfake, vốn nhắm đến phụ nữ và trẻ em gái nhiều hơn hẳn, là một mối lo ngại đặc biệt. Các nghiên cứu cho thấy 96% video deepfake trên mạng có nội dung khiêu dâm. 15% người trưởng thành ở UK cho biết họ đã xem hình ảnh khiêu dâm deepfake và 2.2% người tham gia khảo sát tại 10 quốc gia cho biết có người đã tạo hình ảnh thân mật của họ mà không có sự đồng thuận.
 >oldlace|black||11|15|br      
->oldlace|black||11|15|br  ■ Dữ liệu có hệ thống về mức độ phổ biến và mức độ nghiêm trọng của các tác hại này vẫn còn hạn chế, khiến việc đánh giá tổng thể rủi ro hoặc thiết kế các biện pháp can thiệp hiệu quả trở nên khó khăn. Các cơ sở dữ liệu về sự cố và báo chí điều tra thu thập các trường hợp riêng lẻ, nhưng việc phân tích toàn diện còn thiếu. Sự xấu hổ hoặc nỗi sợ về nguy cơ bị gây hại thêm có thể khiến các cá nhân và tổ chức ngần ngại báo cáo các sự cố gian lận hoặc lạm dụng được hỗ trợ bởi Trí tuệ nhân tạo.
+>oldlace|black||11|15|br  ■ Dữ liệu có hệ thống về mức độ phổ biến và mức độ nghiêm trọng của những tác hại này vẫn còn hạn chế, khiến việc đánh giá rủi ro tổng thể hoặc thiết kế các biện pháp can thiệp hiệu quả trở nên khó khăn. Các cơ sở dữ liệu về sự cố và hoạt động báo chí điều tra thu thập từng vụ việc riêng lẻ, nhưng vẫn thiếu các phân tích toàn diện. Sự xấu hổ hoặc nỗi sợ bị tổn hại thêm có thể khiến cá nhân và tổ chức ngần ngại báo cáo các sự cố gian lận hoặc lạm dụng có sử dụng AI.
 >oldlace|black||11|15|br      
->oldlace|black||11|15|br  ■ Kể từ khi công bố Báo cáo trước đó (tháng 1 năm 2025), nội dung do AI tạo ra đã trở nên khó phân biệt hơn so với phương tiện truyền thông thực. Trong một nghiên cứu, người tham gia đã nhận nhầm văn bản do AI tạo ra là văn bản do con người viết 77% số lần. Trong một nghiên cứu khác về giả mạo giọng nói bằng deepfake, người nghe đã nhầm lẫn giọng nói do AI tạo ra với giọng nói của người thật 80% số lần.
+>oldlace|black||11|15|br  ■ Kể từ khi Báo cáo trước được công bố (tháng 1 năm 2025), nội dung do AI tạo ra ngày càng khó phân biệt với nội dung truyền thông thật. Trong một nghiên cứu, những người tham gia nhầm văn bản do AI tạo ra là do con người viết trong 77% trường hợp. Trong một nghiên cứu khác về deepfake âm thanh, người nghe nhầm giọng nói do AI tạo ra là giọng nói của người thật trong 80% trường hợp.
 >oldlace|black||11|15|br      
->oldlace|black||11|15|br  ■ Các thách thức chính đối với các nhà hoạch định chính sách bao gồm việc bị báo cáo thiếu, các công cụ phát hiện không thể theo kịp chất lượng tạo sinh, và khó khăn trong việc truy vết nội dung tới các nhà sáng tạo. Ngoài ra, một số nội dung – chẳng hạn như tài liệu lạm dụng tình dục trẻ em – gây hại ngay cả khi được xác định đúng là do AI tạo ra, nghĩa là chỉ riêng việc phát hiện không thể giải quyết đầy đủ các rủi ro này.
+>oldlace|black||11|15|br  ■ Những thách thức chính đối với các nhà hoạch định chính sách bao gồm tình trạng báo cáo thiếu, các công cụ phát hiện không thể theo kịp chất lượng nội dung được tạo ra và khó khăn trong việc truy tìm nội dung về người tạo ra chúng. Ngoài ra, một số nội dung – chẳng hạn như tài liệu xâm hại tình dục trẻ em – vẫn gây hại ngay cả khi được xác định chính xác là do AI tạo ra, nghĩa là chỉ dựa vào việc phát hiện không thể giải quyết triệt để những rủi ro này.
 >oldlace|black||11|15|br      
 
 
